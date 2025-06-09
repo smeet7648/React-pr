@@ -1,7 +1,5 @@
 import "../App.css";
 
-
-
 function Main() {
   return (
     <main>
@@ -84,7 +82,11 @@ function Main() {
             <p class="p21">Sold : 241</p>
           </div>
           <div class="tox2">
-            <img src="https://martfury.nouhtml5.com/_next/image?url=https%3A%2F%2Fmartfuryapi.nouhtml5.com%2Fuploads%2F6a_64d1694c41.jpeg&w=1920&q=75" alt="" class="img6" />
+            <img
+              src="https://martfury.nouhtml5.com/_next/image?url=https%3A%2F%2Fmartfuryapi.nouhtml5.com%2Fuploads%2F6a_64d1694c41.jpeg&w=1920&q=75"
+              alt=""
+              class="img6"
+            />
             <p class="p17">YOUNG SHOP</p>
             <p class="p18">$21.79</p>
             <p class="p19">Sound Intone 165 Earphone White Version</p>
@@ -95,7 +97,11 @@ function Main() {
             <p class="p21">Sold : 101</p>
           </div>
           <div class="tox3">
-            <img src="https://martfury.nouhtml5.com/_next/image?url=https%3A%2F%2Fmartfuryapi.nouhtml5.com%2Fuploads%2F14a_a6a59e67a9.jpeg&w=1920&q=75" alt="" class="img6" />
+            <img
+              src="https://martfury.nouhtml5.com/_next/image?url=https%3A%2F%2Fmartfuryapi.nouhtml5.com%2Fuploads%2F14a_a6a59e67a9.jpeg&w=1920&q=75"
+              alt=""
+              class="img6"
+            />
             <p class="p17">YOUNG SHOP</p>
             <p class="p18">$70.65</p>
             <p class="p19">ASUS Chromebook Flip — 10.2 Inch 2012</p>
@@ -106,7 +112,11 @@ function Main() {
             <p class="p21">Sold : 152</p>
           </div>
           <div class="tox4">
-            <img src="https://martfury.nouhtml5.com/_next/image?url=https%3A%2F%2Fmartfuryapi.nouhtml5.com%2Fuploads%2F15a_6962d26dfe.jpeg&w=1920&q=75" alt="" class="img6" />
+            <img
+              src="https://martfury.nouhtml5.com/_next/image?url=https%3A%2F%2Fmartfuryapi.nouhtml5.com%2Fuploads%2F15a_6962d26dfe.jpeg&w=1920&q=75"
+              alt=""
+              class="img6"
+            />
             <p class="p17">YOUNG SHOP</p>
             <p class="p18">$84.69</p>
             <p class="p19">Apple MacBook Air Retina 12-lnch Laptop</p>
@@ -117,7 +127,11 @@ function Main() {
             <p class="p21">Sold : 233</p>
           </div>
           <div class="tox5">
-            <img src="https://martfury.nouhtml5.com/_next/image?url=https%3A%2F%2Fmartfuryapi.nouhtml5.com%2Fuploads%2F14c_2c3eaebb65.jpeg&w=1920&q=75" alt="" class="img6" />
+            <img
+              src="https://martfury.nouhtml5.com/_next/image?url=https%3A%2F%2Fmartfuryapi.nouhtml5.com%2Fuploads%2F14c_2c3eaebb65.jpeg&w=1920&q=75"
+              alt=""
+              class="img6"
+            />
             <p class="p17">YOUNG SHOP</p>
             <p class="p18">$86.99</p>
             <p class="p19">Samsung Gallaxy A8 IOGB Ram — Sliver Version</p>
@@ -128,46 +142,66 @@ function Main() {
             <p class="p21">Sold : 220</p>
           </div>
         </div>
-         <div className="add1">
-            <img src="https://martfury.nouhtml5.com/static/img/promotions/home-10/1.jpg" class="ad1" />
-         <img src="https://martfury.nouhtml5.com/static/img/promotions/home-10/2.jpg" class="ad2" />
+        <div className="add1">
+          <img
+            src="https://martfury.nouhtml5.com/static/img/promotions/home-10/1.jpg"
+            class="ad1"
+          />
+          <img
+            src="https://martfury.nouhtml5.com/static/img/promotions/home-10/2.jpg"
+            class="ad2"
+          />
+        </div>
+        <h1 className="tp1">Top Categories of the Month </h1>
+        <div className="pics">
+          <div className="pic1">
+            <img
+              src="https://martfury.nouhtml5.com/static/img/categories/technology/1.jpg"
+              class="ci1"
+            />
+            <h1 className="re1">SmartPhone</h1>
           </div>
-          <h1 className="tp1">Top Categories of the Month </h1>
-          <div className="pics">
-            <div className="pic1">
-              <img src="https://martfury.nouhtml5.com/static/img/categories/technology/1.jpg" class="ci1" />
-              <h1 className="re1">SmartPhone</h1>
-            </div>
 
-             <div className="pic1">
-              <img src="https://martfury.nouhtml5.com/static/img/categories/technology/2.jpg" class="ci1" />
-              <h1 className="re1">Tables</h1>
-            </div>
-
-              <div className="pic1">
-              <img src="https://martfury.nouhtml5.com/static/img/categories/technology/3.jpg" class="ci1" />
-              <h1 className="re1">Laptops</h1>
-            </div>
-
-              <div className="pic1">
-              <img src="https://martfury.nouhtml5.com/static/img/categories/technology/4.jpg" class="ci1" />
-              <h1 className="re1">Sounds</h1>
-            </div>
-
-              <div className="pic1">
-              <img src="https://martfury.nouhtml5.com/static/img/categories/technology/5.jpg" class="ci1" />
-              <h1 className="re1">Technology Toys</h1>
-            </div>
-
-              <div className="pic1">
-              <img src="https://martfury.nouhtml5.com/static/img/categories/technology/6.jpg" class="ci1" />
-              <h1 className="re1">Accessiores</h1>
-            </div>
-
-            
-
+          <div className="pic1">
+            <img
+              src="https://martfury.nouhtml5.com/static/img/categories/technology/2.jpg"
+              class="ci1"
+            />
+            <h1 className="re1">Tables</h1>
           </div>
-          
+
+          <div className="pic1">
+            <img
+              src="https://martfury.nouhtml5.com/static/img/categories/technology/3.jpg"
+              class="ci1"
+            />
+            <h1 className="re1">Laptops</h1>
+          </div>
+
+          <div className="pic1">
+            <img
+              src="https://martfury.nouhtml5.com/static/img/categories/technology/4.jpg"
+              class="ci1"
+            />
+            <h1 className="re1">Sounds</h1>
+          </div>
+
+          <div className="pic1">
+            <img
+              src="https://martfury.nouhtml5.com/static/img/categories/technology/5.jpg"
+              class="ci1"
+            />
+            <h1 className="re1">Technology Toys</h1>
+          </div>
+
+          <div className="pic1">
+            <img
+              src="https://martfury.nouhtml5.com/static/img/categories/technology/6.jpg"
+              class="ci1"
+            />
+            <h1 className="re1">Accessiores</h1>
+          </div>
+        </div>
       </section>
     </main>
   );
