@@ -152,54 +152,54 @@ function Main() {
             class="ad2"
           />
         </div>
-        <h1 className="tp1">Top Categories of the Month </h1>
-        <div className="pics">
-          <div className="pic1">
+        <h1 class="tp1">Top Categories of the Month </h1>
+        <div class="pics">
+          <div class="pic1">
             <img
               src="https://martfury.nouhtml5.com/static/img/categories/technology/1.jpg"
               class="ci1"
             />
-            <h1 className="re1">SmartPhone</h1>
+            <h1 class="re1">SmartPhone</h1>
           </div>
 
-          <div className="pic1">
+          <div class="pic1">
             <img
               src="https://martfury.nouhtml5.com/static/img/categories/technology/2.jpg"
               class="ci1"
             />
-            <h1 className="re1">Tables</h1>
+            <h1 class="re1">Tables</h1>
           </div>
 
-          <div className="pic1">
+          <div class="pic1">
             <img
               src="https://martfury.nouhtml5.com/static/img/categories/technology/3.jpg"
               class="ci1"
             />
-            <h1 className="re1">Laptops</h1>
+            <h1 class="re1">Laptops</h1>
           </div>
 
-          <div className="pic1">
+          <div class="pic1">
             <img
               src="https://martfury.nouhtml5.com/static/img/categories/technology/4.jpg"
               class="ci1"
             />
-            <h1 className="re1">Sounds</h1>
+            <h1 class="re1">Sounds</h1>
           </div>
 
-          <div className="pic1">
+          <div class="pic1">
             <img
               src="https://martfury.nouhtml5.com/static/img/categories/technology/5.jpg"
               class="ci1"
             />
-            <h1 className="re1">Technology Toys</h1>
+            <h1 class="re1">Technology Toys</h1>
           </div>
 
-          <div className="pic1">
+          <div class="pic1">
             <img
               src="https://martfury.nouhtml5.com/static/img/categories/technology/6.jpg"
               class="ci1"
             />
-            <h1 className="re1">Accessiores</h1>
+            <h1 class="re1">Accessiores</h1>
           </div>
         </div>
       </section>
