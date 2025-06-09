@@ -58,6 +58,7 @@ function Main() {
           </p>
         </div>
       </div>
+
       <section class="s1">
         <div class="fs1">
           <p class="p15">Deal of the day</p>
@@ -200,6 +201,76 @@ function Main() {
               class="ci1"
             />
             <h1 class="re1">Accessiores</h1>
+          </div>
+        </div>
+      </section>
+      <section>
+        <div class="add2">
+          <p class="p22">Popular Smartphones & Tablets</p>
+          <div class="add3">
+            <a href="0">
+              <p class="p23">Iphone, Ipad, Samsung</p>
+            </a>
+            <a href="0">
+              <p class="p24">View all</p>
+            </a>
+          </div>
+        </div>
+        <div class="fs3">
+          <div class="tox11">
+            <img
+              src="https://martfury.nouhtml5.com/_next/image?url=https%3A%2F%2Fmartfuryapi.nouhtml5.com%2Fuploads%2F1c_e3e7bf6c87.jpeg&w=1920&q=75"
+              alt=""
+              class="img6"
+            />
+            <p class="p17">YOUNG SHOP</p>
+            <p class="p18">$90.45</p>
+            <p class="p19">Apple iPhone 7 Plus 128 GB — Red Color</p>
+            <p class="p20">⭐⭐⭐⭐☆ 04</p>  
+          </div>
+          <div class="tox12">
+            <img
+              src="https://martfury.nouhtml5.com/_next/image?url=https%3A%2F%2Fmartfuryapi.nouhtml5.com%2Fuploads%2F1a_e06f965f4b.jpeg&w=1920&q=75"
+              alt=""
+              class="img6"
+            />
+            <p class="p17">YOUNG SHOP</p>
+            <p class="p18">$32.96</p>
+            <p class="p19">Apple iPhone Retina 6s Plus 64GB</p>
+            <p class="p20">⭐⭐☆☆☆ 02</p>
+          </div>
+          <div class="tox13">
+            <img
+              src="https://martfury.nouhtml5.com/_next/image?url=https%3A%2F%2Fmartfuryapi.nouhtml5.com%2Fuploads%2F1b_3875b21be9.jpeg&w=1920&q=75"
+              alt=""
+              class="img6"
+            />
+            <p class="p17">YOUNG SHOP</p>
+            <p class="p18">$37.18</p>
+            <p class="p19">Apple iPhone X 256GB T- Mobile — Black</p>
+            <p class="p20">⭐⭐⭐☆☆ 03</p>
+          </div>
+          <div class="tox14">
+            <img
+              src="https://martfury.nouhtml5.com/_next/image?url=https%3A%2F%2Fmartfuryapi.nouhtml5.com%2Fuploads%2F14c_2c3eaebb65.jpeg&w=1920&q=75"
+              alt=""
+              class="img6"
+            />
+            <p class="p17">YOUNG SHOP</p>
+            <p class="p18">$86.17</p>
+            <p class="p19">Samsung Gallaxy A8 IOG Ram — Sliver Version</p>
+            <p class="p20">⭐⭐⭐☆☆ 03</p>    
+          </div>
+          <div class="tox15">
+            <img
+              src="https://martfury.nouhtml5.com/_next/image?url=https%3A%2F%2Fmartfuryapi.nouhtml5.com%2Fuploads%2F14d_f8958eb9bd.jpeg&w=1920&q=75"
+              alt=""
+              class="img6"
+            />
+            <p class="p17">YOUNG SHOP</p>
+            <p class="p18">$53.68</p>
+            <p class="p19">Samsung Gallaxy A8 8GB Ram — Sliver Version</p>
+            <p class="p20">⭐⭐⭐☆☆ 03</p>     
           </div>
         </div>
       </section>
