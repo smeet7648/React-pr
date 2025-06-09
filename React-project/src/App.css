@@ -444,7 +444,120 @@ body a {
     text-align: center;
     font-family: sans-serif;
   }
+.add2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 0px;
+    margin: 0px 13%;
+    background-color: #f4f4f4;
+    border-bottom: #666 1px solid;
+    margin-top: 35px;
+  }
+
+  .add3 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+    .p22 {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 1.3rem;
+        font-weight: 500;
+    }
+
+  .p23 {
+    color: #666;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  .p24 {
+    padding-left: 20px;
+    margin-right: 10px;
+    color: #0071df;
+  }
+    .fs3 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0px 170px;
+    flex-wrap: wrap;
+    margin-top: 35px;
+  }
+
+  .tox11,
+  .tox12,
+  .tox13,
+  .tox14,
+  .tox15 {
+    width: 200px;
+    height: 430px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+  }
+  .ade2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 0px;
+    margin: 0px 13%;
+    background-color: #f4f4f4;
+    border-bottom: #666 1px solid;
+    margin-top: 35px;
+  }
+
+  .ade3 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+    .ps22 {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 1.3rem;
+        font-weight: 500;
+    }
+
+  .ps23 {
+    color: #666;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  .ps24 {
+    padding-left: 20px;
+    margin-right: 10px;
+    color: #0071df;
+  }
+
+    .fsi3 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0px 170px;
+    flex-wrap: wrap;
+    margin-top: 35px;
+  }
+
+  .toxi11,
+  .toxi12,
+  .toxi13,
+  .toxi14,
+  .toxi15 {
+    width: 200px;
+    height: 430px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+  }
 }
+
+
 
 
 @media screen and (max-width: 1536px) {

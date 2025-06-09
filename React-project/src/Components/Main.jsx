@@ -204,6 +204,8 @@ function Main() {
           </div>
         </div>
       </section>
+
+
       <section>
         <div class="add2">
           <p class="p22">Popular Smartphones & Tablets</p>
@@ -270,6 +272,77 @@ function Main() {
             <p class="p17">YOUNG SHOP</p>
             <p class="p18">$53.68</p>
             <p class="p19">Samsung Gallaxy A8 8GB Ram — Sliver Version</p>
+            <p class="p20">⭐⭐⭐☆☆ 03</p>     
+          </div>
+        </div>
+      </section>
+
+      <section>
+               <div class="ade2">
+          <p class="ps22">Technology Toys Recommended For You</p>
+          <div class="ade3">
+            <a href="0">
+              <p class="ps23">Micro   Drone   JQOS </p>
+            </a>
+            <a href="0">
+              <p class="ps24">View all</p>
+            </a>
+          </div>
+        </div>
+                <div class="fsi3">
+          <div class="toxi11">
+            <img
+              src="https://martfury.nouhtml5.com/_next/image?url=https%3A%2F%2Fmartfuryapi.nouhtml5.com%2Fuploads%2F16a_ace7201098.jpeg&w=1920&q=75"
+              alt=""
+              class="img6"
+            />
+            <p class="p17">YOUNG SHOP</p>
+            <p class="p18">$56.99</p>
+            <p class="p19">Samsung Gear VR Virtual Reality Headset</p>
+            <p class="p20">⭐⭐⭐⭐☆ 02</p>  
+          </div>
+          <div class="toxi12">
+            <img
+              src="https://martfury.nouhtml5.com/_next/image?url=https%3A%2F%2Fmartfuryapi.nouhtml5.com%2Fuploads%2F23a_2ee0e95dc9.jpeg&w=1920&q=75"
+              alt=""
+              class="img6"
+            />
+            <p class="p17">YOUNG SHOP</p>
+            <p class="p18">$89.99</p>
+            <p class="p19">GoPro Karman 4 Channels Quadcopter</p>
+            <p class="p20">⭐⭐☆☆☆ 02</p>
+          </div>
+          <div class="toxi13">
+            <img
+              src="https://martfury.nouhtml5.com/_next/image?url=https%3A%2F%2Fmartfuryapi.nouhtml5.com%2Fuploads%2F18a_b09e066132.jpeg&w=1920&q=75"
+              alt=""
+              class="img6"
+            />
+            <p class="p17">YOUNG SHOP</p>
+            <p class="p18">$96.99</p>
+            <p class="p19">Apple Tv 4k - 32Gb(4th Gen)</p>
+            <p class="p20">⭐⭐⭐☆☆ 03</p>
+          </div>
+          <div class="toxi14">
+            <img
+              src="https://martfury.nouhtml5.com/_next/image?url=https%3A%2F%2Fmartfuryapi.nouhtml5.com%2Fuploads%2F23d_b38f35906b.jpeg&w=1920&q=75"
+              alt=""
+              class="img6"
+            />
+            <p class="p17">YOUNG SHOP</p>
+            <p class="p18">$75.99</p>
+            <p class="p19">IQOS 2.4 Plus Kit, Holder & Charges-</p>
+            <p class="p20">⭐⭐⭐☆☆ 02</p>    
+          </div>
+          <div class="toxi15">
+            <img
+              src="https://martfury.nouhtml5.com/_next/image?url=https%3A%2F%2Fmartfuryapi.nouhtml5.com%2Fuploads%2F23a_2ee0e95dc9.jpeg&w=1920&q=75"
+              alt=""
+              class="img6"
+            />
+            <p class="p17">YOUNG SHOP</p>
+            <p class="p18">$33.99</p>
+            <p class="p19">DJI Phantom 4 Quadcopter Camera </p>
             <p class="p20">⭐⭐⭐☆☆ 03</p>     
           </div>
         </div>
