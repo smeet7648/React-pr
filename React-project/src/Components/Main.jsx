@@ -345,6 +345,81 @@ function Main() {
             <p class="p20">⭐⭐⭐☆☆ 03</p>
           </div>
         </div>
+
+
+
+
+               <div class="adei2">
+          <p class="ps22">Best Seller Laptops & Sounds</p>
+          <div class="ade3">
+            <a href="0"><p class="psr23">Apple</p></a>
+            <a href="0"><p class="psr23">Laptop</p></a>
+            <a href="0"><p class="psr23">Asus</p></a>
+            <a href="0"><p class="psr23">JBL</p></a>
+            <a href="0"><p class="psr23">Speaker</p></a>
+            <a href="0"><p class="psr23">Mashal</p></a>
+            <a href="0">
+              <p class="ps24">View all</p>
+            </a>
+          </div>
+        </div>
+        <div class="fsic3">
+          <div class="toxiz11">
+            <img
+              src="https://martfury.nouhtml5.com/_next/image?url=https%3A%2F%2Fmartfuryapi.nouhtml5.com%2Fuploads%2F4a_bb7b245770.jpeg&w=1920&q=75"
+              alt=""
+              class="img6"
+            />
+            <p class="p17">YOUNG SHOP</p>
+            <p class="p18">$59.99</p>
+            <p class="p19">XBOX One Wireless Controller Black</p>
+            <p class="p20">⭐⭐⭐⭐☆ 02</p>
+          </div>
+          <div class="toxiz12">
+            <img
+              src="https://martfury.nouhtml5.com/_next/image?url=https%3A%2F%2Fmartfuryapi.nouhtml5.com%2Fuploads%2F6a_64d1694c41.jpeg&w=1920&q=75"
+              alt=""
+              class="img6"
+            />
+            <p class="p17">YOUNG SHOP</p>
+            <p class="p18">$29.99</p>
+            <p class="p19">Sound Inton I65 Headphone White Version</p>
+            <p class="p20">⭐⭐☆☆☆ 02</p>
+          </div>
+          <div class="toxiz13">
+            <img
+              src="https://martfury.nouhtml5.com/_next/image?url=https%3A%2F%2Fmartfuryapi.nouhtml5.com%2Fuploads%2F14a_a6a59e67a9.jpeg&w=1920&q=75"
+              alt=""
+              class="img6"
+            />
+            <p class="p17">YOUNG SHOP</p>
+            <p class="p18">$70.99</p>
+            <p class="p19">Asus ChromeBook Flip - 10.3 inch</p>
+            <p class="p20">⭐⭐⭐☆☆ 03</p>
+          </div>
+          <div class="toxiz14">
+            <img
+              src="https://martfury.nouhtml5.com/_next/image?url=https%3A%2F%2Fmartfuryapi.nouhtml5.com%2Fuploads%2F15a_6962d26dfe.jpeg&w=1920&q=75"
+              alt=""
+              class="img6"
+            />
+            <p class="p17">YOUNG SHOP</p>
+            <p class="p18">$25.99</p>
+            <p class="p19">Apple MacBook Air Retina 13.3 inch Laptop </p>
+            <p class="p20">⭐⭐⭐☆☆ 02</p>
+          </div>
+          <div class="toxiz15">
+            <img
+              src="https://martfury.nouhtml5.com/_next/image?url=https%3A%2F%2Fmartfuryapi.nouhtml5.com%2Fuploads%2F18b_cff3b7eb31.jpeg&w=1920&q=75"
+              alt=""
+              class="img6"
+            />
+            <p class="p17">YOUNG SHOP</p>
+            <p class="p18">$93.99</p>
+            <p class="p19">Samsung 65 inch 4K Ultra HD Smart LEd Tv </p>
+            <p class="p20">⭐⭐⭐☆☆ 03</p>
+          </div>
+        </div>
       </section>
     </main>
   );
