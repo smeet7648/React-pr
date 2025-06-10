@@ -280,9 +280,9 @@ function Main() {
         <div class="ade2">
           <p class="ps22">Technology Toys Recommended For You</p>
           <div class="ade3">
-            <a href="0">
-              <p class="ps23">Micro Drone JQOS </p>
-            </a>
+            <a href="0"><p class="ps23">Micro</p></a>
+            <a href="0"><p class="ps23">Drone</p></a>
+            <a href="0"><p class="ps23">JQOS</p></a>
             <a href="0">
               <p class="ps24">View all</p>
             </a>

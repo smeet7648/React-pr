@@ -341,13 +341,13 @@ body a {
     height: 190px;
   }
 
-    .p17 {
-        font-size: 0.9rem;
-        color: #666;
-        margin-top: 5px;
-        border-bottom: #e1e1e1 1px solid;
-        padding-left: 10px;
-    }
+  .p17 {
+    font-size: 0.9rem;
+    color: #666;
+    margin-top: 5px;
+    border-bottom: #e1e1e1 1px solid;
+    padding-left: 10px;
+  }
 
   .p18 {
     font-size: 0.9rem;
@@ -936,6 +936,7 @@ body a {
     display: flex;
     flex-direction: column;
     margin-top: 25px;
+    cursor: pointer;
   }
 
   .img6 {
@@ -1105,6 +1106,7 @@ body a {
     display: flex;
     flex-direction: column;
     margin-top: 25px;
+    cursor: pointer;
   }
 
   .toxi11:hover {
@@ -1158,5 +1160,12 @@ body a {
     flex-direction: column;
     margin-top: 25px;
     margin-bottom: 25px;
+    cursor: pointer;
+  }
+
+  .ps23 {
+    color: #666;
+    font-family: "Times New Roman", Times, serif;
+    padding: 0px 6px;
   }
 }
