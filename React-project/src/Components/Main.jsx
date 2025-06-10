@@ -1,6 +1,15 @@
 import "../App.css";
 
 function Main() {
+  const left = () => {
+    document.getElementById("ptx1").style.display="block";
+    document.getElementById("ptx3").style.display="none";
+  }
+  const right = () => {
+    document.getElementById("ptx1").style.display="none";
+    document.getElementById("ptx3").style.display="block";
+  }
+
   return (
     <main>
       <div class="bg">
@@ -67,7 +76,10 @@ function Main() {
           </a>
         </div>
         <div class="fs2">
-          <div class="tox1">
+          <div class="left1">
+            <img src="https://www.iconpacks.net/icons/2/free-arrow-left-icon-3099-thumb.png" alt="" class="leog1" id="lg1" onClick={left} />
+          </div>
+          <div class="tox1" id="ptx1">
             <img
               src="https://martfury.nouhtml5.com/_next/image?url=https%3A%2F%2Fmartfuryapi.nouhtml5.com%2Fuploads%2F4a_bb7b245770.jpeg&w=1920&q=75"
               alt=""
@@ -141,6 +153,24 @@ function Main() {
               <span class="sob1"></span>
             </div>
             <p class="p21">Sold : 220</p>
+          </div>
+          <div class="tox5" id="ptx3">
+            <img
+              src="https://martfury.nouhtml5.com/_next/image?url=https%3A%2F%2Fmartfuryapi.nouhtml5.com%2Fuploads%2F18a_b09e066132.jpeg&w=1920&q=75"
+              alt=""
+              class="img6"
+            />
+            <p class="p17">YOUNG SHOP</p>
+            <p class="p18">$48.99</p>
+            <p class="p19">Samsung UHD TV 24inch</p>
+            <p class="p20">⭐⭐⭐⭐☆</p>
+            <div class="dob1">
+              <span class="sob1"></span>
+            </div>
+            <p class="p21">Sold : 220</p>
+          </div>
+          <div class="right1">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqsd1xGuWttJzi78uQ8VGIVydM2Sp1IrfWQQ&s" alt="" class="leog2" id="rg1" onClick={right} />
           </div>
         </div>
         <div className="add1">
@@ -345,11 +375,7 @@ function Main() {
             <p class="p20">⭐⭐⭐☆☆ 03</p>
           </div>
         </div>
-
-
-
-
-               <div class="adei2">
+        <div class="adei2">
           <p class="ps22">Best Seller Laptops & Sounds</p>
           <div class="ade3">
             <a href="0"><p class="psr23">Apple</p></a>
