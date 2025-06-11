@@ -678,6 +678,7 @@ body a {
   .toxiz15:hover {
     border: #666 1px solid;
   }
+
   .opul1 {
     display: flex;
     flex-direction: column;
@@ -731,38 +732,23 @@ body a {
   .apa1 {
     margin-top: 10px;
   }
-  .leog1 , .leog2{
+
+  .leog1,
+  .leog2 {
     width: 25px;
     height: 25px;
     margin-left: 10px;
     margin-top: 10px;
     cursor: pointer;
   }
-  #ptx1{
+
+  #ptx1 {
     display: block;
   }
-  #ptx3{
+
+  #ptx3 {
     display: none;
   }
-    .footer-title {
-        margin-left: 226px;
-        font-size: 1.2rem;
-    }
-     .footer-links {
-        margin-left: 178px;
-    }
-
-    .footer-links li{
-      list-style: none;
-      font-size: 1.1rem;
-      margin-top: 10px;
-      margin-left: 10px;
-
-    }
-    .footer-links li a {
-      color: #666;
-      text-decoration: none;
-    }
 }
 
 @media screen and (max-width: 1536px) {
@@ -1416,18 +1402,51 @@ body a {
   .apa1 {
     margin-top: 10px;
   }
-  .leog1 , .leog2{
+
+  .leog1,
+  .leog2 {
     width: 25px;
     height: 25px;
     margin-left: 10px;
     margin-top: 10px;
     cursor: pointer;
   }
-  #ptx1{
+
+  #ptx1 {
     display: block;
   }
-  #ptx3{
+
+  #ptx3 {
     display: none;
   }
-
+  .icons21{
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+    margin-top: 5px;
+    mix-blend-mode: color;
+  }
+      footer {
+        width: 100%;
+        height: 350px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .footer-title {
+        font-size: 1.2rem;
+        padding-left: 48px;
+    }
+    .footer-links li a {
+        color: #666;
+        text-decoration: none;
+        font-family: initial;
+    }
+    .footer-links li {
+        list-style: none;
+        font-size: 1rem;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
 }
