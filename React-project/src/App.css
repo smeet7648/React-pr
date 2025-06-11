@@ -749,6 +749,58 @@ body a {
   #ptx3 {
     display: none;
   }
+   .icons21{
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+    margin-top: 5px;
+    mix-blend-mode: color;
+  }
+      footer {
+        width: 100%;
+        height: 350px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .footer-title {
+        font-size: 1.2rem;
+        padding-left: 48px;
+    }
+    .footer-links li a {
+        color: #666;
+        text-decoration: none;
+        font-family: initial;
+    }
+    .footer-links li {
+        list-style: none;
+        font-size: 1rem;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+     .search2 {
+        width: 204px;
+        height: 43px;
+        margin-left: -161px;
+    }
+    .search2:placeholder-shown{
+      padding-left: 10px;
+    }
+      .btn3 {
+        width: 122px;
+        height: 49px;
+        background: #0071DF;
+        color: white;
+        font-size: 1rem;
+    }
+    .new1{
+      margin-left: -157px;
+    }
+     .last-img {
+        margin-left: -160px;
+        margin-top: 10px;
+    }
 }
 
 @media screen and (max-width: 1536px) {

@@ -32,9 +32,9 @@ function Footer() {
         </ul>
       </div>
       <div class="foot5">
-        <h2>Newsletter</h2>
+        <h2 class="new1">Newsletter</h2>
         <div class="last1">
-          <input type="text" name="" id="" class="search2" />
+          <input type="text" name="" id="" class="search2"  placeholder="Email Address"/>
           <button class="btn3">Subscribe</button>
         </div>
         <div class="last-img">
