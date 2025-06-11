@@ -12,6 +12,9 @@ function Footer() {
       <li><a href="#">Return</a></li>
       <li><a href="#">FAQ</a></li>
     </ul>
+
+
+    
   </div>
 </footer>
 
