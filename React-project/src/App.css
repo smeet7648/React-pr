@@ -56,6 +56,10 @@ body a {
     align-items: center;
     padding: 0px 20px;
     height: 80px;
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+    z-index: 10;
   }
 
   .title {
@@ -139,8 +143,17 @@ body a {
     color: black;
     font-size: 0.9rem;
     margin-top: -3px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-      Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    font-family:
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      "Segoe UI",
+      Roboto,
+      Oxygen,
+      Ubuntu,
+      Cantarell,
+      "Open Sans",
+      "Helvetica Neue",
       sans-serif;
   }
 
@@ -149,8 +162,17 @@ body a {
     font-size: 0.9rem;
     margin-top: 35px;
     margin-left: -40px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-      Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    font-family:
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      "Segoe UI",
+      Roboto,
+      Oxygen,
+      Ubuntu,
+      Cantarell,
+      "Open Sans",
+      "Helvetica Neue",
       sans-serif;
   }
 
@@ -220,7 +242,8 @@ body a {
     font-size: 2rem;
     font-weight: 400;
     color: black;
-    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    font-family:
+      "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
       "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   }
 
@@ -304,8 +327,17 @@ body a {
     font-size: 1.5rem;
     color: black;
     font-weight: 700;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-      Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    font-family:
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      "Segoe UI",
+      Roboto,
+      Oxygen,
+      Ubuntu,
+      Cantarell,
+      "Open Sans",
+      "Helvetica Neue",
       sans-serif;
   }
 
@@ -537,9 +569,8 @@ body a {
     font-family: "Times New Roman", Times, serif;
     font-size: 1.3rem;
     font-weight: 500;
+    padding-left: 10px;
   }
-
-
 
   .ps24 {
     padding-left: 20px;
@@ -724,7 +755,18 @@ body a {
     color: #222020;
     font-size: 1rem;
     font-weight: 600;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family:
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      "Segoe UI",
+      Roboto,
+      Oxygen,
+      Ubuntu,
+      Cantarell,
+      "Open Sans",
+      "Helvetica Neue",
+      sans-serif;
     margin-left: 40px;
     margin-top: -22px;
   }
@@ -749,58 +791,68 @@ body a {
   #ptx3 {
     display: none;
   }
-   .icons21{
+
+  .icons21 {
     width: 20px;
     height: 20px;
     margin-left: 5px;
     margin-top: 5px;
     mix-blend-mode: color;
   }
-      footer {
-        width: 100%;
-        height: 350px;
-        display: flex;
-        flex-direction: row;
-        justify-content: space-around;
-        align-items: center;
-    }
-    .footer-title {
-        font-size: 1.2rem;
-        padding-left: 48px;
-    }
-    .footer-links li a {
-        color: #666;
-        text-decoration: none;
-        font-family: initial;
-    }
-    .footer-links li {
-        list-style: none;
-        font-size: 1rem;
-        margin-top: 10px;
-        margin-left: 10px;
-    }
-     .search2 {
-        width: 204px;
-        height: 43px;
-        margin-left: -161px;
-    }
-    .search2:placeholder-shown{
-      padding-left: 10px;
-    }
-      .btn3 {
-        width: 122px;
-        height: 49px;
-        background: #0071DF;
-        color: white;
-        font-size: 1rem;
-    }
-    .new1{
-      margin-left: -157px;
-    }
-     .last-img {
-        margin-left: -160px;
-        margin-top: 10px;
-    }
+
+  .footer {
+    width: 100%;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  .footer-title {
+    font-size: 1.2rem;
+    padding-left: 48px;
+  }
+
+  .footer-links li a {
+    color: #666;
+    text-decoration: none;
+    font-family: initial;
+  }
+
+  .footer-links li {
+    list-style: none;
+    font-size: 1rem;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+
+  .search2 {
+    width: 204px;
+    height: 43px;
+    margin-left: -161px;
+  }
+
+  .search2:placeholder-shown {
+    padding-left: 10px;
+  }
+
+  .btn3 {
+    width: 122px;
+    height: 49px;
+    background: #0071df;
+    color: white;
+    font-size: 1rem;
+  }
+
+  .new1 {
+    margin-left: -157px;
+  }
+
+  .last-img {
+    margin-left: -160px;
+    margin-top: 10px;
+  }
 }
 
 @media screen and (max-width: 1536px) {
@@ -851,6 +903,10 @@ body a {
     align-items: center;
     padding: 0px 20px;
     height: 80px;
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+    z-index: 10;
   }
 
   .title {
@@ -934,8 +990,17 @@ body a {
     color: black;
     font-size: 0.9rem;
     margin-top: -3px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-      Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    font-family:
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      "Segoe UI",
+      Roboto,
+      Oxygen,
+      Ubuntu,
+      Cantarell,
+      "Open Sans",
+      "Helvetica Neue",
       sans-serif;
   }
 
@@ -944,8 +1009,17 @@ body a {
     font-size: 0.9rem;
     margin-top: 35px;
     margin-left: -40px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-      Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    font-family:
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      "Segoe UI",
+      Roboto,
+      Oxygen,
+      Ubuntu,
+      Cantarell,
+      "Open Sans",
+      "Helvetica Neue",
       sans-serif;
   }
 
@@ -986,7 +1060,7 @@ body a {
   }
 
   .bg {
-    width: 1521px;
+    width: 100%;
     height: 300px;
     background-image: url("https://martfury.nouhtml5.com/static/img/slider/home-10/2.jpg");
     background-size: cover;
@@ -1014,7 +1088,8 @@ body a {
     font-size: 2rem;
     font-weight: 400;
     color: black;
-    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    font-family:
+      "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
       "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   }
 
@@ -1098,8 +1173,17 @@ body a {
     font-size: 1.5rem;
     color: black;
     font-weight: 700;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-      Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    font-family:
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      "Segoe UI",
+      Roboto,
+      Oxygen,
+      Ubuntu,
+      Cantarell,
+      "Open Sans",
+      "Helvetica Neue",
       sans-serif;
   }
 
@@ -1263,8 +1347,9 @@ body a {
 
   .p22 {
     font-family: "Times New Roman", Times, serif;
-    font-size: 1rem;
+    font-size: 1.3rem;
     font-weight: 500;
+    padding-left: 10px;
   }
 
   .p23 {
@@ -1446,7 +1531,18 @@ body a {
     color: #222020;
     font-size: 1rem;
     font-weight: 600;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family:
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      "Segoe UI",
+      Roboto,
+      Oxygen,
+      Ubuntu,
+      Cantarell,
+      "Open Sans",
+      "Helvetica Neue",
+      sans-serif;
     margin-left: 40px;
     margin-top: -22px;
   }
@@ -1471,34 +1567,227 @@ body a {
   #ptx3 {
     display: none;
   }
-  .icons21{
+
+  .icons21 {
     width: 20px;
     height: 20px;
     margin-left: 5px;
     margin-top: 5px;
     mix-blend-mode: color;
   }
-      footer {
-        width: 100%;
-        height: 350px;
-        display: flex;
-        flex-direction: row;
-        justify-content: space-around;
-        align-items: center;
-    }
-    .footer-title {
-        font-size: 1.2rem;
-        padding-left: 48px;
-    }
-    .footer-links li a {
-        color: #666;
-        text-decoration: none;
-        font-family: initial;
-    }
-    .footer-links li {
-        list-style: none;
-        font-size: 1rem;
-        margin-top: 10px;
-        margin-left: 10px;
-    }
+
+  .footer {
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  .footer-title {
+    font-size: 1.2rem;
+    padding-left: 48px;
+    margin-bottom: 30px;
+  }
+
+  .footer-links li a {
+    color: #666;
+    text-decoration: none;
+    font-family: initial;
+  }
+
+  .footer-links li {
+    list-style: none;
+    font-size: 1rem;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+
+  .search2 {
+    width: 204px;
+    height: 46px;
+    margin-left: -161px;
+    border: 1px solid #666;
+    border-bottom-left-radius: 3px;
+    border-top-left-radius: 3px;
+    font-size: 1rem;
+  }
+
+  .search2:placeholder-shown {
+    padding-left: 10px;
+  }
+
+  .btn3 {
+    width: 122px;
+    height: 49px;
+    background: #0071df;
+    color: white;
+    font-size: 1rem;
+    border: none;
+    padding-top: 1px;
+    cursor: pointer;
+  }
+
+  .new1 {
+    margin-left: -157px;
+  }
+
+  .last-img {
+    margin-left: -160px;
+    margin-top: 10px;
+  }
+
+  .foot5 {
+    width: 200px;
+    height: auto;
+    margin-right: 80px;
+  }
+
+  .foot4 {
+    margin-right: 180px;
+  }
+
+  .footer-section {
+    margin-left: 59px;
+  }
+
+  .copy {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 0px;
+    border-top: 2px solid #666;
+    margin: 0px 11%;
+    margin-bottom: 25px;
+  }
+
+  .copy1,
+  .copy2 {
+    color: #666;
+    font-size: 0.85rem 13.6px;
+    font-family: sans-serif;
+  }
+
+  .copy2 {
+    padding-left: 425px;
+  }
+
+  .coimg {
+    width: 35px;
+    height: 15px;
+    cursor: pointer;
+  }
+
+  footer li a:hover {
+    color: #0071df;
+    text-decoration: underline;
+  }
+
+  #flix1 {
+    margin-top: 2px;
+  }
+}
+
+@media screen and (max-width: 1497px) {
+  .add1 {
+    padding: 0px 167px;
+  }
+}
+
+@media screen and (max-width: 1464px) {
+
+  .ad1,
+  .ad2 {
+    max-width: 540px;
+    height: 200px;
+  }
+}
+
+@media screen and (max-width: 1434px) {
+  .add1 {
+    padding: 0px 177px;
+  }
+
+  .ad1,
+  .ad2 {
+    max-width: 510px;
+  }
+}
+
+@media screen and (max-width: 1411px) {
+  .fs2 {
+    margin: 0px 90px;
+  }
+
+  .fs1 {
+    margin: 0px 11%;
+  }
+
+  .add2 {
+    margin: 0px 11%;
+    margin-top: 35px;
+  }
+
+  .fs3,
+  .fsic3,
+  .fsi3 {
+    margin: 0px 130px;
+  }
+
+  .ade2 {
+    margin: 0px 11%;
+    margin-top: 35px;
+  }
+
+  .adei2 {
+    margin: 0px 11%;
+    margin-top: 35px;
+  }
+
+  .footer-section {
+    margin-left: 39px;
+  }
+
+  .copy {
+    margin: 0px 10.5%;
+    margin-bottom: 25px;
+  }
+}
+
+@media screen and (max-width: 1400px) {
+  .pics {
+    padding: 10px 160px;
+  }
+
+  .add1 {
+    padding: 0px 157px;
+  }
+
+  .copy2 {
+    padding-left: 395px;
+  }
+
+  .tp1 {
+    padding-left: 170px;
+  }
+}
+
+@media screen and (max-width:1353px) {
+  .ad1,
+  .ad2 {
+    max-width: 500px;
+  }
+
+  .add1 {
+    padding: 0px 147px;
+  }
+
+  .pics {
+    padding: 10px 150px;
+  }
+
+  .copy2 {
+    padding-left: 345px;
+  }
 }
