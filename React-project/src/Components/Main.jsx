@@ -289,7 +289,7 @@ function Main() {
             />
             <p class="p17" id="flix1">YOUNG SHOP</p>
             <p class="p18">$48.99</p>
-            <p class="p19">Samsung UHD TV 24inch</p>
+            <p class="p19">Samsung UHD TV 24inch with silver and black </p>
             <p class="p20">⭐⭐⭐⭐☆</p>
             <div class="dob1">
               <span class="sob1"></span>
