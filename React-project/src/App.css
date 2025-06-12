@@ -2397,3 +2397,66 @@ body a {
     height: 44px;
   }
 }
+@media screen and (max-width:1003px) {
+      .ad1, .ad2 {
+        max-width: 390px;
+        height: 172px;
+    }
+  
+}
+@media screen and (max-width:940px) {
+      .ad1, .ad2 {
+        max-width: 345px;
+        height: 172px;
+    }
+        .pic1 {
+        width: 105px;
+        height: 175px;
+    }
+        .fs3, .fsic3, .fsi3 {
+        margin: 0px 0px;
+    }
+        .copy2 {
+        padding-left: 175px;
+    }
+        .acc1 {
+        padding-right: -19px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin-left: 28px;
+    }
+}
+@media screen and (max-width:899px) {
+      .img1 {
+        width: 27px;
+        height: 27px;
+        margin-left: -31px;
+        margin-top: 3.5px;
+    }
+    .tox15 {
+      display: none;
+    }
+    .toxi15
+    {
+      display: none;
+    }
+    .toxiz15{
+      display: none;
+    }
+}
+@media screen and (max-width:879px) {
+      .fs2 {
+        margin: 0px 40px;
+    }
+        .search {
+        width: 360px;
+        height: 40px;
+    }
+
+}
+@media screen and (max-width:863px) {
+  .bx4{
+    display: none;
+  }
+}
