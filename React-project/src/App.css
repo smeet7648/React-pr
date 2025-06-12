@@ -143,8 +143,17 @@ body a {
     color: black;
     font-size: 0.9rem;
     margin-top: -3px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-      Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    font-family:
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      "Segoe UI",
+      Roboto,
+      Oxygen,
+      Ubuntu,
+      Cantarell,
+      "Open Sans",
+      "Helvetica Neue",
       sans-serif;
   }
 
@@ -153,8 +162,17 @@ body a {
     font-size: 0.9rem;
     margin-top: 35px;
     margin-left: -40px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-      Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    font-family:
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      "Segoe UI",
+      Roboto,
+      Oxygen,
+      Ubuntu,
+      Cantarell,
+      "Open Sans",
+      "Helvetica Neue",
       sans-serif;
   }
 
@@ -224,7 +242,8 @@ body a {
     font-size: 2rem;
     font-weight: 400;
     color: black;
-    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    font-family:
+      "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
       "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   }
 
@@ -308,8 +327,17 @@ body a {
     font-size: 1.5rem;
     color: black;
     font-weight: 700;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-      Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    font-family:
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      "Segoe UI",
+      Roboto,
+      Oxygen,
+      Ubuntu,
+      Cantarell,
+      "Open Sans",
+      "Helvetica Neue",
       sans-serif;
   }
 
@@ -727,8 +755,17 @@ body a {
     color: #222020;
     font-size: 1rem;
     font-weight: 600;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-      Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    font-family:
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      "Segoe UI",
+      Roboto,
+      Oxygen,
+      Ubuntu,
+      Cantarell,
+      "Open Sans",
+      "Helvetica Neue",
       sans-serif;
     margin-left: 40px;
     margin-top: -22px;
@@ -1065,8 +1102,17 @@ body a {
     color: black;
     font-size: 0.9rem;
     margin-top: -3px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-      Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    font-family:
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      "Segoe UI",
+      Roboto,
+      Oxygen,
+      Ubuntu,
+      Cantarell,
+      "Open Sans",
+      "Helvetica Neue",
       sans-serif;
   }
 
@@ -1075,8 +1121,17 @@ body a {
     font-size: 0.9rem;
     margin-top: 35px;
     margin-left: -40px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-      Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    font-family:
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      "Segoe UI",
+      Roboto,
+      Oxygen,
+      Ubuntu,
+      Cantarell,
+      "Open Sans",
+      "Helvetica Neue",
       sans-serif;
   }
 
@@ -1145,7 +1200,8 @@ body a {
     font-size: 2rem;
     font-weight: 400;
     color: black;
-    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    font-family:
+      "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
       "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   }
 
@@ -1229,8 +1285,17 @@ body a {
     font-size: 1.5rem;
     color: black;
     font-weight: 700;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-      Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    font-family:
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      "Segoe UI",
+      Roboto,
+      Oxygen,
+      Ubuntu,
+      Cantarell,
+      "Open Sans",
+      "Helvetica Neue",
       sans-serif;
   }
 
@@ -1309,9 +1374,8 @@ body a {
   .p21 {
     font-size: 1rem;
     color: #666;
-    margin-top: 10px;
     margin-left: 0px;
-    /* margin: 0; */
+    margin: 0;
   }
 
   .add1 {
@@ -1578,8 +1642,17 @@ body a {
     color: #222020;
     font-size: 1rem;
     font-weight: 600;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-      Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    font-family:
+      system-ui,
+      -apple-system,
+      BlinkMacSystemFont,
+      "Segoe UI",
+      Roboto,
+      Oxygen,
+      Ubuntu,
+      Cantarell,
+      "Open Sans",
+      "Helvetica Neue",
       sans-serif;
     margin-left: 40px;
     margin-top: -22px;
@@ -1668,6 +1741,7 @@ body a {
 
   .new1 {
     margin-left: -157px;
+    font-size: 1.2rem;
   }
 
   .last-img {
@@ -1851,7 +1925,7 @@ body a {
   }
 }
 
-@media screen and (max-width:1260px) {
+@media screen and (max-width: 1260px) {
   .img1 {
     margin-left: 15px;
     margin-right: 20px;
@@ -1905,7 +1979,10 @@ body a {
 
   .p19 {
     font-size: 0.9rem;
+  }
 
+  .open {
+    margin-left: 15px;
   }
 }
 
@@ -1920,16 +1997,8 @@ body a {
   }
 
   .pic1 {
-    flex: 0 0 auto;
     width: 140px;
     height: 185px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    border: 1px solid grey;
-    box-sizing: border-box;
-    border-radius: 6px;
-    background-color: #f9f9f9;
   }
 
   .tox11,
@@ -1939,10 +2008,6 @@ body a {
   .tox15 {
     width: 180px;
     height: 330px;
-    display: flex;
-    flex-direction: column;
-    margin-top: 25px;
-    cursor: pointer;
   }
 
   .toxi11,
@@ -1952,11 +2017,6 @@ body a {
   .toxi15 {
     width: 180px;
     height: 320px;
-    display: flex;
-    flex-direction: column;
-    margin-top: 25px;
-    margin-bottom: 25px;
-    cursor: pointer;
   }
 
   .toxiz11,
@@ -1966,59 +2026,374 @@ body a {
   .toxiz15 {
     width: 180px;
     height: 319px;
-    display: flex;
-    flex-direction: column;
-    margin-top: 25px;
-    margin-bottom: 25px;
-    cursor: pointer;
   }
 
   .coimg {
     width: 47px;
     height: 15px;
-    cursor: pointer;
     padding: 0 10px;
   }
 
   .img1 {
     width: 27px;
     height: 27px;
-    cursor: pointer;
     margin-left: 5px;
     margin-top: 3.5px;
   }
+
+  .copy2 {
+    padding-left: 235px;
+  }
 }
-@media  screen  and (max-width:1248px){
-      .tox1, .tox2, .tox3, .tox4, .tox5 {
-        width: 190px;
-        height: 430px;
-        display: flex;
-        flex-direction: column;
-        margin-top: 25px;
-        cursor: pointer;
-    }
-        .title {
-        display: none;
-    }
-  
+
+@media screen and (max-width: 1248px) {
+
+  .tox1,
+  .tox2,
+  .tox3,
+  .tox4,
+  .tox5 {
+    width: 190px;
+    height: 430px;
+  }
+
+  .title {
+    display: none;
+  }
 }
-@media screen and (max-width:1217px) {
-      .fs2 {
-        margin: 0px 23px;
-    }
-    .inp1 {
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        justify-content: center;
-        height: 80px;
-        margin: 0px 118px;
-    }
-        .search {
-        width: 390px;
-        height: 40px;
-        border: 1px solid #e1e1e1;
-        background-color: #fff;
-    }
-  
+
+@media screen and (max-width: 1226px) {
+
+  .fs3,
+  .fsic3,
+  .fsi3 {
+    margin: 0px 100px;
+  }
+
+  .add2 {
+    margin: 0px 10%;
+    margin-top: 35px;
+  }
+
+  .ade2 {
+    margin: 0px 10%;
+    margin-top: 35px;
+  }
+
+  .adei2 {
+    margin: 0px 10%;
+    margin-top: 35px;
+  }
+}
+
+@media screen and (max-width: 1217px) {
+  .fs2 {
+    margin: 0px 23px;
+  }
+
+  .inp1 {
+    margin: 0px 118px;
+  }
+
+  .search {
+    width: 390px;
+    height: 40px;
+  }
+
+  .f2 {
+    padding: 0px 35px;
+  }
+
+  .f1 {
+    padding: 0px 20px;
+  }
+
+  .open {
+    margin-left: 6px;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .add1 {
+    padding: 0px 87px;
+  }
+
+  .ad1,
+  .ad2 {
+    max-width: 495px;
+    height: 202px;
+  }
+
+  .tox1,
+  .tox2,
+  .tox3,
+  .tox4,
+  .tox5 {
+    width: 190px;
+    height: 380px;
+  }
+
+  .tp1 {
+    padding-left: 120px;
+  }
+
+  .pics {
+    padding: 10px 100px;
+  }
+
+  .copy2 {
+    padding-left: 215px;
+  }
+
+  .copy {
+    margin: 0px 8.5%;
+    margin-bottom: 25px;
+  }
+
+  .foot5 {
+    height: auto;
+    margin-right: 20px;
+  }
+
+  .footer-section {
+    margin-left: 20px;
+  }
+}
+
+@media screen and (max-width:1180px) {
+  .fs1 {
+    margin: 0px 8%;
+  }
+
+  .add1 {
+    padding: 0px 97px;
+  }
+
+  .ad1,
+  .ad2 {
+    max-width: 465px;
+    height: 192px;
+  }
+
+  .tp1 {
+    padding-left: 110px;
+  }
+
+  .add2,
+  .ade2,
+  .adei2 {
+    margin: 0px 9%;
+    margin-top: 35px;
+  }
+
+  .inp1 {
+    margin: 0px 48px;
+  }
+
+  .f1 {
+    padding: 0px 50px;
+  }
+
+  .f2 {
+    padding: 0px 45px;
+  }
+
+  .copy2 {
+    padding-left: 365px;
+  }
+
+  .coimg {
+    width: 30px;
+    height: 15px;
+    padding: 0 0px;
+  }
+
+  .last-img {
+    margin-bottom: 70px;
+  }
+
+  .foot3 {
+    margin-bottom: 25px;
+  }
+
+  .foot4 {
+    margin-bottom: 25px;
+  }
+}
+
+@media screen and (max-width:1142px) {
+
+  .ad1,
+  .ad2 {
+    max-width: 445px;
+    height: 182px;
+  }
+
+  .copy2 {
+    padding-left: 325px;
+  }
+}
+
+@media screen and (max-width:1100px) {
+  .pics {
+    padding: 10px 80px;
+  }
+
+  .tp1 {
+    padding-left: 90px;
+  }
+
+  .ad1,
+  .ad2 {
+    max-width: 445px;
+    height: 182px;
+  }
+
+  .add1 {
+    padding: 0px 77px;
+  }
+
+  .fs3,
+  .fsic3,
+  .fsi3 {
+    margin: 0px 50px;
+  }
+
+  .add2,
+  .ade2,
+  .adei2 {
+    margin: 0px 6%;
+    margin-top: 35px;
+  }
+
+  .foot4 {
+    margin-right: 240px;
+  }
+
+  .footer-section {
+    margin-left: -20px;
+  }
+
+  .copy {
+    margin: 0px 5%;
+    margin-bottom: 25px;
+  }
+
+  .copy2 {
+    padding-left: 385px;
+  }
+
+  .dob1 {
+    width: 170px;
+    height: 10px;
+  }
+
+  .sob1 {
+    width: 100px;
+  }
+
+  .fs2 {
+    margin: 0px 50px;
+  }
+
+  .tox1,
+  .tox2,
+  .tox3,
+  .tox4,
+  .tox5 {
+    width: 180px;
+    height: 380px;
+  }
+
+  .leog1 {
+    margin-left: -10px;
+  }
+
+  .p14 {
+    margin-top: -46px;
+    margin-left: 60px;
+  }
+
+  .img2,
+  .img3,
+  .img4,
+  .img5 {
+    width: 45px;
+    height: 45px;
+    margin-left: -170px;
+    margin-top: 10px;
+  }
+
+  .bx1,
+  .bx2,
+  .bx3,
+  .bx4 {
+    width: 230px;
+    height: 70px;
+  }
+}
+
+@media screen and (max-width:1061px) {
+
+  .right1,
+  .left1 {
+    display: none;
+  }
+
+  .tox1,
+  .tox2,
+  .tox3,
+  .tox4,
+  .tox5 {
+    width: 200px;
+    height: 330px;
+    margin-top: 15px;
+  }
+
+  .dob1 {
+    width: 190px;
+    height: 10px;
+  }
+
+  .sob1 {
+    width: 120px;
+  }
+
+  .fs2 {
+    margin: 0px 140px;
+  }
+
+  .ad1,
+  .ad2 {
+    max-width: 425px;
+    height: 172px;
+  }
+
+  #ptx3 {
+    display: block;
+  }
+
+  .copy2 {
+    padding-left: 355px;
+  }
+}
+
+@media screen and (max-width:1031px) {
+  .inp1 {
+    margin: 0px -62px;
+  }
+
+  .pic1 {
+    width: 130px;
+    height: 175px;
+  }
+
+  .copy2 {
+    padding-left: 305px;
+  }
+
+  .select2 {
+    width: 110px;
+    height: 44px;
+  }
 }
