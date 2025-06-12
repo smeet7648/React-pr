@@ -817,6 +817,7 @@ body a {
     margin-left: -160px;
     margin-top: 10px;
   }
+
   .foot5 {
     width: 200px;
     height: auto;
@@ -845,7 +846,7 @@ body a {
   .copy1,
   .copy2 {
     color: #666;
-    font-size: 0.85rem 13.6px;
+    font-size: 0.85rem;
     font-family: sans-serif;
   }
 
@@ -868,7 +869,9 @@ body a {
     margin-top: 2px;
   }
 }
+
 @media screen and (max-width: 1840px) {
+
   .ad1,
   .ad2 {
     /* width: 100%; */
@@ -878,7 +881,9 @@ body a {
     cursor: pointer;
   }
 }
+
 @media screen and (max-width: 1788px) {
+
   .ad1,
   .ad2 {
     /* width: 100%; */
@@ -888,7 +893,9 @@ body a {
     cursor: pointer;
   }
 }
+
 @media screen and (max-width: 1725px) {
+
   .ad1,
   .ad2 {
     /* width: 100%; */
@@ -898,7 +905,9 @@ body a {
     cursor: pointer;
   }
 }
+
 @media screen and (max-width: 1650px) {
+
   .ad1,
   .ad2 {
     /* width: 100%; */
@@ -908,7 +917,9 @@ body a {
     cursor: pointer;
   }
 }
+
 @media screen and (max-width: 1550px) {
+
   .ad1,
   .ad2 {
     /* width: 100%; */
@@ -918,6 +929,7 @@ body a {
     cursor: pointer;
   }
 }
+
 @media screen and (max-width: 1536px) {
   .st1 {
     display: flex;
@@ -1691,7 +1703,7 @@ body a {
   .copy1,
   .copy2 {
     color: #666;
-    font-size: 0.85rem 13.6px;
+    font-size: 0.85rem;
     font-family: sans-serif;
   }
 
@@ -1714,18 +1726,22 @@ body a {
     margin-top: 2px;
   }
 }
+
 @media screen and (max-width: 1497px) {
   .add1 {
     padding: 0px 167px;
   }
 }
+
 @media screen and (max-width: 1464px) {
+
   .ad1,
   .ad2 {
     max-width: 540px;
     height: 200px;
   }
 }
+
 @media screen and (max-width: 1434px) {
   .add1 {
     padding: 0px 177px;
@@ -1736,6 +1752,7 @@ body a {
     max-width: 510px;
   }
 }
+
 @media screen and (max-width: 1411px) {
   .fs2 {
     margin: 0px 90px;
@@ -1775,6 +1792,7 @@ body a {
     margin-bottom: 25px;
   }
 }
+
 @media screen and (max-width: 1400px) {
   .pics {
     padding: 10px 160px;
@@ -1792,7 +1810,9 @@ body a {
     padding-left: 170px;
   }
 }
+
 @media screen and (max-width: 1353px) {
+
   .ad1,
   .ad2 {
     max-width: 500px;
@@ -1810,7 +1830,9 @@ body a {
     padding-left: 345px;
   }
 }
+
 @media screen and (max-width: 1294px) {
+
   .ad1,
   .ad2 {
     max-width: 475px;
@@ -1828,62 +1850,141 @@ body a {
     padding-left: 345px;
   }
 }
+
+@media screen and (max-width:1260px) {
+  .img1 {
+    margin-left: 15px;
+    margin-right: 20px;
+  }
+
+  .icon1,
+  .icon2,
+  .icon3 {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+
+  .pic1 {
+    width: 150px;
+    height: 191px;
+  }
+
+  .tox11,
+  .tox12,
+  .tox13,
+  .tox14,
+  .tox15,
+  .toxi11,
+  .toxi12,
+  .toxi13,
+  .toxi14,
+  .toxi15,
+  .toxiz11,
+  .toxiz12,
+  .toxiz13,
+  .toxiz14,
+  .toxiz15 {
+    width: 170px;
+    height: 330px;
+  }
+
+  .img6 {
+    width: 170px;
+    height: 170px;
+  }
+
+  .p17 {
+    font-size: 0.8rem;
+  }
+
+  .p18 {
+    font-size: 0.9rem;
+  }
+
+  .p19 {
+    font-size: 0.9rem;
+
+  }
+}
+
 @media screen and (max-width: 1250px) {
-    .fs2 {
-        margin: 0px 89px;
-    }
-        .ad1, .ad2 {
-        max-width: 445px;
-    }
-        .pic1 {
-        flex: 0 0 auto;
-        width: 140px;
-        height: 185px;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        border: 1px solid grey;
-        box-sizing: border-box;
-        border-radius: 6px;
-        background-color: #f9f9f9;
-    }
-        .tox11, .tox12, .tox13, .tox14, .tox15 {
-        width: 180px;
-        height: 330px;
-        display: flex;
-        flex-direction: column;
-        margin-top: 25px;
-        cursor: pointer;
-    }
-        .toxi11, .toxi12, .toxi13, .toxi14, .toxi15 {
-        width: 180px;
-        height: 320px;
-        display: flex;
-        flex-direction: column;
-        margin-top: 25px;
-        margin-bottom: 25px;
-        cursor: pointer;
-    }
-        .toxiz11, .toxiz12, .toxiz13, .toxiz14, .toxiz15 {
-        width: 180px;
-        height: 319px;
-        display: flex;
-        flex-direction: column;
-        margin-top: 25px;
-        margin-bottom: 25px;
-        cursor: pointer;
-    }
-        .coimg {
-        width: 47px;
-        height: 15px;
-        cursor: pointer;
-        padding: 0 10px;
-    }
-        .img1 {
-        width: 27px;
-        height: 27px;
-        cursor: pointer;
-        margin-left: 5px;
-        margin-top: 3.5px;
-    }
+  .fs2 {
+    margin: 0px 89px;
+  }
+
+  .ad1,
+  .ad2 {
+    max-width: 445px;
+  }
+
+  .pic1 {
+    flex: 0 0 auto;
+    width: 140px;
+    height: 185px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid grey;
+    box-sizing: border-box;
+    border-radius: 6px;
+    background-color: #f9f9f9;
+  }
+
+  .tox11,
+  .tox12,
+  .tox13,
+  .tox14,
+  .tox15 {
+    width: 180px;
+    height: 330px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+    cursor: pointer;
+  }
+
+  .toxi11,
+  .toxi12,
+  .toxi13,
+  .toxi14,
+  .toxi15 {
+    width: 180px;
+    height: 320px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    cursor: pointer;
+  }
+
+  .toxiz11,
+  .toxiz12,
+  .toxiz13,
+  .toxiz14,
+  .toxiz15 {
+    width: 180px;
+    height: 319px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    cursor: pointer;
+  }
+
+  .coimg {
+    width: 47px;
+    height: 15px;
+    cursor: pointer;
+    padding: 0 10px;
+  }
+
+  .img1 {
+    width: 27px;
+    height: 27px;
+    cursor: pointer;
+    margin-left: 5px;
+    margin-top: 3.5px;
+  }
 }
