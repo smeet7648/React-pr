@@ -3150,3 +3150,36 @@ body a {
     display: block;
   }
 }
+@media screen and (max-width:519px) {
+      .tox11, .tox12, .tox13, .tox14, .tox15 {
+        width: 185px;
+        height: 330px;
+    }
+        .toxi11, .toxi12, .toxi13, .toxi14, .toxi15 {
+        width: 185px;
+        height: 330px;
+    }
+        .toxiz11, .toxiz12, .toxiz13, .toxiz14, .toxiz15 {
+        width: 185px;
+        height: 330px;
+    }
+        .new1 {
+        margin-left: -114px;
+        font-size: 1.2rem;
+    }
+        .search2 {
+        width: 204px;
+        height: 46px;
+        margin-left: -116px;
+        border: 1px solid #666;
+        border-bottom-left-radius: 3px;
+        border-top-left-radius: 3px;
+        font-size: 1rem;
+    }
+        .last-img {
+        margin-left: -118px;
+        margin-top: 10px;
+    }
+    
+  
+}
