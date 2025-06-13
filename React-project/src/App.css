@@ -3183,3 +3183,30 @@ body a {
     
   
 }
+@media screen and (max-width:480px) {
+      .nav2 p {
+        font-size: 0.7rem
+    }
+        .p1, .p2, .p3 {
+        color: #666;
+        font-size: 0.7rem;
+        font-weight: lighter;
+        margin-top: 17px;
+    }
+        .head2 {
+        font-size: 2rem;
+        font-weight: 400;
+        color: black;
+        font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+        margin-left: 13px;
+    }
+        .bx1, .bx2, .bx3, .bx4 {
+        width: 229px;
+        height: 70px;
+        margin-bottom: 10px;
+    }
+        #fix91 {
+        margin-right: 108px;
+    }
+    
+}
