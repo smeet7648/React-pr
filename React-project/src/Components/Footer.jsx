@@ -53,7 +53,7 @@ function Footer() {
         <img src="https://martfury.nouhtml5.com/static/img/payment-method/2.jpg" alt="" class="coimg" />
         <img src="https://martfury.nouhtml5.com/static/img/payment-method/3.jpg" alt="" class="coimg" />
         <img src="https://martfury.nouhtml5.com/static/img/payment-method/4.jpg" alt="" class="coimg" />
-        <img src="https://martfury.nouhtml5.com/static/img/payment-method/5.jpg" alt="" class="coimg" />
+        <img src="https://martfury.nouhtml5.com/static/img/payment-method/5.jpg" alt="" class="coimg" id="fix91" />
       </div>
     </footer>
   )
