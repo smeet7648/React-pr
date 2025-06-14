@@ -3150,63 +3150,190 @@ body a {
     display: block;
   }
 }
+
 @media screen and (max-width:519px) {
-      .tox11, .tox12, .tox13, .tox14, .tox15 {
-        width: 185px;
-        height: 330px;
-    }
-        .toxi11, .toxi12, .toxi13, .toxi14, .toxi15 {
-        width: 185px;
-        height: 330px;
-    }
-        .toxiz11, .toxiz12, .toxiz13, .toxiz14, .toxiz15 {
-        width: 185px;
-        height: 330px;
-    }
-        .new1 {
-        margin-left: -114px;
-        font-size: 1.2rem;
-    }
-        .search2 {
-        width: 204px;
-        height: 46px;
-        margin-left: -116px;
-        border: 1px solid #666;
-        border-bottom-left-radius: 3px;
-        border-top-left-radius: 3px;
-        font-size: 1rem;
-    }
-        .last-img {
-        margin-left: -118px;
-        margin-top: 10px;
-    }
-    
-  
+
+  .tox11,
+  .tox12,
+  .tox13,
+  .tox14,
+  .tox15 {
+    width: 185px;
+    height: 330px;
+  }
+
+  .toxi11,
+  .toxi12,
+  .toxi13,
+  .toxi14,
+  .toxi15 {
+    width: 185px;
+    height: 330px;
+  }
+
+  .toxiz11,
+  .toxiz12,
+  .toxiz13,
+  .toxiz14,
+  .toxiz15 {
+    width: 185px;
+    height: 310px;
+  }
 }
-@media screen and (max-width:480px) {
-      .nav2 p {
-        font-size: 0.7rem
-    }
-        .p1, .p2, .p3 {
-        color: #666;
-        font-size: 0.7rem;
-        font-weight: lighter;
-        margin-top: 17px;
-    }
-        .head2 {
-        font-size: 2rem;
-        font-weight: 400;
-        color: black;
-        font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-        margin-left: 13px;
-    }
-        .bx1, .bx2, .bx3, .bx4 {
-        width: 229px;
-        height: 70px;
-        margin-bottom: 10px;
-    }
-        #fix91 {
-        margin-right: 108px;
-    }
-    
+
+.new1 {
+  margin-left: -114px;
+  font-size: 1.2rem;
+}
+
+.search2 {
+  width: 204px;
+  height: 46px;
+  margin-left: -116px;
+  font-size: 1rem;
+}
+
+.last-img {
+  margin-left: -118px;
+  margin-top: 10px;
+}
+
+.img6 {
+  width: 185px;
+  height: 180px;
+}
+
+@media screen and (max-width:495px) {
+  .nav2 p {
+    font-size: 0.7rem
+  }
+
+  .p1,
+  .p2,
+  .p3 {
+    font-size: 0.7rem;
+    margin-top: 17px;
+  }
+
+  .head2 {
+    font-size: 2rem;
+    margin-left: 13px;
+  }
+
+  .bx1,
+  .bx2,
+  .bx3,
+  .bx4 {
+    width: 229px;
+    height: 70px;
+    margin-bottom: 10px;
+  }
+
+  #fix91 {
+    margin-right: 108px;
+  }
+
+  .add1 {
+    padding: 0px 37px;
+  }
+
+  .nav2 {
+    height: 40px;
+    display: none;
+  }
+
+  .bg {
+    width: 100%;
+    height: 320px;
+  }
+}
+
+@media screen and (max-width:471px) {
+  .foot5 {
+    height: auto;
+    margin-right: 99px;
+    margin-top: 190px;
+  }
+
+  .icon1,
+  .icon2,
+  .icon3 {
+    width: 20px;
+    height: 20px;
+  }
+
+  .img1 {
+    width: 20px;
+    height: 22px;
+    /* margin-left: -31px; */
+    margin-top: -0.5px;
+  }
+}
+
+@media screen and (max-width:461px) {
+  .icon1 {
+    display: none;
+  }
+
+  .img2,
+  .img3,
+  .img4,
+  .img5 {
+    width: 35px;
+    height: 35px;
+    margin-left: -150px;
+    margin-top: 10px;
+  }
+
+  .p14 {
+    font-size: 1rem;
+    margin-left: 40px;
+    margin-top: -36px;
+  }
+
+  .bx1,
+  .bx2,
+  .bx3,
+  .bx4 {
+    width: 209px;
+    height: 70px;
+    margin-bottom: 10px;
+  }
+
+  .head2 {
+    font-size: 1.7rem;
+  }
+
+  .change3 {
+    font-size: 2rem;
+  }
+
+  .info {
+    margin-left: -150px;
+  }
+
+  .ad1,
+  .ad2 {
+    max-width: 376px;
+    height: 164px;
+    margin-top: 20px;
+  }
+
+  .tox1,
+  .tox2,
+  .tox3,
+  .tox4,
+  .tox5 {
+    width: 200px;
+    height: 360px;
+  }
+
+  .copy2 {
+    margin-left: -487px;
+    margin-top: 50px;
+  }
+
+  #fix91 {
+    margin-right: 68px;
+  }
 }
